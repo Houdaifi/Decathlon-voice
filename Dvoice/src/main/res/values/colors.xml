@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#094074</color>
+    <color name="colorPrimary">#DDAE2B</color>
+    <color name="colorAccent">#C5FFFD</color>
+    Error:error: resource color/colorPrimary (aka com.example.android.dvoice:color/colorPrimary) not found.
+</resources>
